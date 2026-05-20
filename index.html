@@ -1397,16 +1397,23 @@ function populateSnapshotSelectors() {
 /* ============================================================
    RENDER
    ============================================================ */
+function safeRun(name, fn) {
+  try { fn(); }
+  catch (e) {
+    console.error(`[render:${name}]`, e);
+    toast(`Errore in ${name}: ${e.message}`, true);
+  }
+}
 function renderAll() {
-  renderHero();
-  renderSummary();
-  renderTrendCharts();
-  renderPositioning();
-  renderTopTables();
-  renderOpportunities();
-  renderAIOpportunities();
-  renderMovers();
-  renderCompareSection();
+  safeRun('hero', renderHero);
+  safeRun('summary', renderSummary);
+  safeRun('trend', renderTrendCharts);
+  safeRun('positioning', renderPositioning);
+  safeRun('topTables', renderTopTables);
+  safeRun('opportunities', renderOpportunities);
+  safeRun('aiOpportunities', renderAIOpportunities);
+  safeRun('movers', renderMovers);
+  safeRun('compare', renderCompareSection);
 }
 
 function renderHero() {

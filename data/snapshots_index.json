@@ -4,6 +4,9 @@
       "date": "2026-05-20",
       "file": "snapshot_2026-05-20.json",
       "label": "Snapshot iniziale"
-    }
+    },
+    { "date": "2026-05-25", 
+      "file": "snapshot_2026-05-25.json", 
+      "label": "Import 2026-05-25" }
   ]
 }

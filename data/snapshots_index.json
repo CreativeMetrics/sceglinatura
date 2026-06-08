@@ -7,6 +7,11 @@
     },
     { "date": "2026-05-25", 
       "file": "snapshot_2026-05-25.json", 
-      "label": "Import 2026-05-25" }
+      "label": "Import 2026-05-25" 
+    },
+    { "date": "2026-06-08", 
+      "file": "snapshot_2026-06-08.json", 
+       "label": "Import 2026-06-08" 
+    }
   ]
 }

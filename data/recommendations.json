@@ -1,42 +1,42 @@
 {
   "title": "Sette interventi <span class=\"accent\">prioritari</span> per i prossimi novanta giorni",
-  "intro": "Raccomandazioni operative basate sull'analisi qualitativa dello snapshot più recente. Da rivedere periodicamente in base all'evoluzione dei dati.",
-  "updated_at": "2026-05-20",
+  "intro": "Raccomandazioni operative basate sull'analisi dello snapshot al 6 giugno 2026 e sul confronto con lo snapshot precedente del 20 maggio. Le priorità sono cambiate sensibilmente: il rischio di concentrazione su un mispell si è verificato e ha generato un crollo di traffico del 43%. Le azioni qui sotto sono ordinate per impatto e urgenza.",
+  "updated_at": "2026-06-08",
   "items": [
     {
       "priority": "high",
-      "title": "Recupero \"piperina\" in prima pagina",
-      "body": "La keyword \"piperina\" (volume 2.400) è scesa da pos. 8 a pos. 11 perdendo 65 click stimati al mese, la perdita maggiore di tutto il portfolio. Refresh urgente della pagina <code>/167-piperina-da-pepe-nero</code>: aggiornamento contenuti, internal linking, verifica intent (la pagina prodotto rischia di soccombere a contenuti editoriali più approfonditi)."
+      "title": "Recupero ylang ylang dopo la perdita del mispell",
+      "body": "La keyword \"ylan ylang\" (pos. 2 con 848 click/mese a maggio) è sparita dal portfolio: Google ha smesso di trattare il mispell come query autonoma. Il sito ha perso il 40% del traffico organico complessivo in 21 giorni. Intervenire sulla pagina <code>/218-ylang-ylang</code> per rankarla sulla grafia corretta \"ylang ylang\" (volume reale ancora da verificare con Search Console) e considerare un articolo editoriale di supporto sui benefici. Monitorare Search Console per capire se le impression su \"ylang ylang\" stanno crescendo o se il volume è davvero migrato altrove."
     },
     {
       "priority": "high",
-      "title": "Attacco frontale alle head keyword \"glutatione\" e \"acetilcisteina\"",
-      "body": "Sono i due termini a maggior volume del sito (33.100 e 27.100 ricerche/mese) e producono oggi zero click per via di posizioni 31 e 15. La pagina <code>/glutatione-guida-completa</code> rankka già 41 keyword: con un lavoro mirato di rafforzamento (backlink, profondità di contenuto, schema markup) il salto in top 10 può triplicare il traffico organico del sito."
+      "title": "Diagnosi del crollo del cluster acetilcisteina/NAC",
+      "body": "La head \"acetilcisteina\" (27.100 volume) è scesa da pos. 15 a 22 in 3 settimane (-7), e tutto il cluster ha perso posizioni: \"acetilcisteina a cosa serve\" è a 16 (-2), \"acetilcisteina proprietà\" a 13 (-5), \"acetilcisteina fegato\" a 14 (-3). La pagina <code>/blog/acetilcisteina-nac-benefici-usi.html</code> rankka 42 keyword ma genera oggi solo 21 click (era nella top 10 URL del sito). Audit urgente: verificare aggiornamenti Google nel periodo, qualità del contenuto vs competitor, eventuali problemi tecnici di indicizzazione, anchor text in entrata."
     },
     {
       "priority": "high",
-      "title": "Ottimizzazione AI-friendly delle 45 pagine già in AI Overview non citate",
-      "body": "Il sito attiva AI Overview su 55 keyword ma viene citato solo in 10. Per le 45 restanti — già in top 10 SERP — riformulare l'apertura delle sezioni chiave in formato \"answer-first\": definizione in 2-3 righe in apertura di paragrafo, paragrafi corti, liste numerate, dati misurabili (dosaggi, percentuali). Priorità: vitamina C controindicazioni, glutatione effetti collaterali, smagliature palestra."
+      "title": "Capitalizzare il pilastro glutatione, ora #1 del sito",
+      "body": "La pagina <code>/blog/glutatione-guida-completa.html</code> è la URL con più traffico (292 click stimati/mese), 44 keyword posizionate, volume aggregato 55.130. \"Effetti collaterali glutatione\" e \"carenza di glutatione sintomi\" sono già top 4 in crescita. La head \"glutatione\" (33.100 volume) è ancora a pos. 32: spingere autorevolezza e profondità di contenuto (sezioni dedicate a dosaggio, interazioni farmaci, forme di assunzione) per portarla in top 20 nei prossimi 90 giorni."
     },
     {
       "priority": "med",
-      "title": "Spinta sui 326 keyword in seconda pagina",
-      "body": "Le keyword pos. 11-20 sono il bacino con maggior leva: ogni keyword spostata in top 10 vale mediamente 5-20 click/mese. Selezionare i 20 termini con miglior rapporto volume/Keyword Difficulty (acetilcisteina, integratori per le articolazioni, palmitoiletanolamide, propoli benefici) e costruire un piano di link building interno + content refresh dedicato."
+      "title": "Cluster artrosi: espansione editoriale del momentum",
+      "body": "L'articolo <code>/blog/dolori-articolari-artrosi-e-sport.html</code> ha 26 keyword posizionate, di cui 5 nelle top 10 di crescita (integratori per artrosi, cervicale, anca, naturali, x artrosi). Il segnale è di forte interesse organico sul tema. Creare 3-4 articoli satellite dedicati alle varianti emergenti (\"integratori per artrosi cervicale\", \"miglior integratore per ossa e articolazioni\" che è già a pos. 17) per moltiplicare la copertura prima che competitor riempiano il cluster."
     },
     {
       "priority": "med",
-      "title": "Cluster \"piante afrodisiache\": espansione satellite",
-      "body": "Una sola URL rankka 61 keyword del cluster, di cui 5 in posizione 1. Si è raggiunto il limite di copertura monolitica: creare 4-6 articoli satellite su keyword di tail correlate (piante afrodisiache per uomo, per donne, naturali specifiche) per moltiplicare la copertura e proteggere il cluster da competitor che pubblicano contenuti specifici."
+      "title": "Trasformazione editoriale delle pagine prodotto piperina e ylang ylang",
+      "body": "Il cluster piperina è interamente bloccato in pos. 14-36 con zero click su 10+ keyword (volume aggregato 3.500+). Stessa dinamica sul prodotto ylang ylang dopo la perdita del mispell. Il modello \"pagina prodotto che rankka su query informazionali\" non sta più funzionando per questi cluster. Valutare: (a) ibridare le schede prodotto con sezione editoriale ricca (FAQ, controindicazioni, ricerca scientifica), oppure (b) creare articoli editoriali dedicati che linkano alla pagina prodotto."
     },
     {
       "priority": "med",
-      "title": "Analisi qualità della prima posizione su \"ylan ylang\"",
-      "body": "Il 40% del traffico organico totale del sito dipende da un solo mispell. È una concentrazione di rischio. Verificare: (a) tasso di conversione di questo traffico; (b) opportunità di posizionare contemporaneamente la grafia corretta \"ylang ylang\"; (c) eventuali rischi di correzione automatica lato Google che farebbe scomparire il volume."
+      "title": "Continuare l'ottimizzazione AI-friendly delle pagine top 10",
+      "body": "Buon segnale: le menzioni AI sono salite da 10 a 21 (+11) in 21 giorni, su 58 AI Overview attivate. Restano 35 keyword in top 10 SERP senza citazione: priorità a \"effetti collaterali glutatione\" (pos. 3, 2.900 volume), \"glutatione controindicazioni\" (pos. 2), \"effetti collaterali vitamina c\" (pos. 2), \"acetilcisteina benefici\" (pos. 4). Riformulare le sezioni di apertura in formato answer-first (definizione 2-3 righe, liste, dati misurabili)."
     },
     {
       "priority": "low",
-      "title": "Reporting trimestrale automatizzato",
-      "body": "I dati mostrano un ribilanciamento negli ultimi 3 mesi (-10,9% keyword, -7,9% traffico) che è importante monitorare. Strutturare un export SEOZoom periodico (mensile) con tracking dedicato delle priorità sopra, per misurare l'impatto degli interventi entro 90 giorni."
+      "title": "Monitorare i cali su prodotti e-commerce e cluster saturi",
+      "body": "Royal Skin (pos. 12, -18 click/mese) e Omega 3 Plus (pos. 5, -13 click) sono i due maggiori drop dell'area prodotti. Verificare prima di intervenire: cambi di domanda stagionale, competizione su Amazon/Google Shopping, eventuali interventi recenti sulle pagine. Sul fronte cluster maturi, monitorare \"piante afrodisiache\" che è cresciuto a 76 keyword su una sola URL (era 61): saturazione strutturale, valutare contenuti satellite a 12 mesi."
     }
   ]
 }

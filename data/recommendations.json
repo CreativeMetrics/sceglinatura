@@ -1,13 +1,8 @@
 {
   "title": "Sette interventi <span class=\"accent\">prioritari</span> per i prossimi novanta giorni",
-  "intro": "Raccomandazioni operative basate sull'analisi dello snapshot al 30 giugno 2026, con confronto sui due snapshot precedenti (20 maggio, 8 giugno). Il quadro mostra segnali contrastanti: alcuni successi della strategia precedente (PEA in top 10, glutatione URL leader) si affiancano a un deterioramento generale (top 3 dimezzate in 6 settimane, AI Overview crollate, traffico stimato -55% rispetto a maggio). Le quattro priorità Alta vanno affrontate in parallelo nei prossimi 30 giorni.",
+  "intro": "Raccomandazioni operative basate sull'analisi dello snapshot al 30 giugno 2026, con confronto sui due snapshot precedenti (20 maggio, 8 giugno). Il quadro mostra segnali contrastanti: alcuni successi della strategia precedente (PEA in top 10, glutatione URL leader) si affiancano a un deterioramento generale (top 3 dimezzate in 6 settimane, traffico stimato -55% rispetto a maggio). Tre priorità Alta da affrontare in parallelo nei prossimi 30 giorni; le restanti quattro come piano editoriale a 60-90 giorni.",
   "updated_at": "2026-06-30",
   "items": [
-    {
-      "priority": "high",
-      "title": "Crollo delle menzioni AI Overview da 21 a 0: investigare urgentemente",
-      "body": "Le 61 keyword che attivano AI Overview in SERP non producono più nessuna citazione del sito (erano 21 il 6 giugno). È un crollo drastico, opposto al trend positivo del mese precedente, che merita un'indagine prima di qualsiasi intervento. Verificare manualmente 5-10 AI Overview in SERP per confermare il dato (potrebbe essere un cambio nella metrica SEOZoom) e, se confermato, analizzare se è collegato a cambi recenti nei contenuti, problemi di schema markup, o aggiornamenti Google che hanno modificato i criteri di selezione delle fonti."
-    },
     {
       "priority": "high",
       "title": "Inversione del trend di erosione delle top 3 (-36% in 6 settimane)",
@@ -22,6 +17,11 @@
       "priority": "high",
       "title": "Pagine cronicamente bloccate: acetilcisteina, ylang ylang, piperina",
       "body": "Tre pagine top-volume continuano a non convertire le posizioni in click. <code>/blog/acetilcisteina-nac-benefici-usi.html</code>: 47 keyword posizionate (come glutatione che genera 251 click) ma solo 12 click totali. <code>/218-ylang-ylang</code>: cluster ancora a 0 traffico dopo la perdita del mispell. <code>/167-piperina-da-pepe-nero</code>: 8+ keyword tutte a 0 traffico. Il problema non è più di posizione (sono già in pos. 13-22) ma di intent matching: queste pagine probabilmente non rispondono alla query nello stesso modo dei competitor in top 10. Audit competitivo SERP a SERP e refresh radicale del contenuto, non più piccoli aggiustamenti."
+    },
+    {
+      "priority": "med",
+      "title": "AI Overview: spingere il sito dalla lista espansa alla prima schermata",
+      "body": "Verifica manuale di un campione delle 61 keyword classificate da SEOZoom come \"0 menzioni\": in circa la metà dei casi il sito <strong>è</strong> citato come fonte nell'AI Overview, ma solo dopo aver cliccato \"Mostra tutti\" per espandere l'elenco fonti. La metrica SEOZoom probabilmente conta solo le citazioni visibili in prima schermata, quelle a maggior click-through. Quindi non c'è un'esclusione strutturale ma una perdita di rilevanza relativa rispetto a competitor che Google ritiene più pertinenti per quelle query. Azione: audit delle 3-5 fonti citate prima del sito su 5 keyword chiave del cluster glutatione/vitamina C/PEA, identificare i pattern (lunghezza, struttura answer-first, tabelle riassuntive, citazioni scientifiche, bio autore) e applicarli al refresh di 5-10 articoli pilota."
     },
     {
       "priority": "med",

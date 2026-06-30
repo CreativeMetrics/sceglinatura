@@ -1,0 +1,42 @@
+{
+  "title": "Sette interventi <span class=\"accent\">prioritari</span> per i prossimi novanta giorni",
+  "intro": "Raccomandazioni operative basate sull'analisi dello snapshot al 30 giugno 2026, con confronto sui due snapshot precedenti (20 maggio, 8 giugno). Il quadro mostra segnali contrastanti: alcuni successi della strategia precedente (PEA in top 10, glutatione URL leader) si affiancano a un deterioramento generale (top 3 dimezzate in 6 settimane, AI Overview crollate, traffico stimato -55% rispetto a maggio). Le quattro priorità Alta vanno affrontate in parallelo nei prossimi 30 giorni.",
+  "updated_at": "2026-06-30",
+  "items": [
+    {
+      "priority": "high",
+      "title": "Crollo delle menzioni AI Overview da 21 a 0: investigare urgentemente",
+      "body": "Le 61 keyword che attivano AI Overview in SERP non producono più nessuna citazione del sito (erano 21 il 6 giugno). È un crollo drastico, opposto al trend positivo del mese precedente, che merita un'indagine prima di qualsiasi intervento. Verificare manualmente 5-10 AI Overview in SERP per confermare il dato (potrebbe essere un cambio nella metrica SEOZoom) e, se confermato, analizzare se è collegato a cambi recenti nei contenuti, problemi di schema markup, o aggiornamenti Google che hanno modificato i criteri di selezione delle fonti."
+    },
+    {
+      "priority": "high",
+      "title": "Inversione del trend di erosione delle top 3 (-36% in 6 settimane)",
+      "body": "Le keyword in posizione 1-3 sono passate da 33 (20 maggio) a 27 (8 giugno) a 21 (30 giugno), pari a un -36% in sei settimane. Nello stesso periodo il portfolio è cresciuto del +24% (da 1.046 a 1.295 keyword). Il sito sta accumulando keyword in posizioni basse senza mantenere quelle d'élite: sintomo di crawl budget mal allocato, link interni diluiti, o di una strategia content che produce volume a discapito della qualità. Audit dei contenuti pubblicati negli ultimi 60 giorni e identificazione delle pagine che potrebbero spingere il traffico delle keyword più strategiche."
+    },
+    {
+      "priority": "high",
+      "title": "Diagnosi del crollo cluster shilajit (-73 click in 22 giorni)",
+      "body": "La keyword \"shilajit effetti collaterali\" (volume 720) è scesa da pos. 3 a pos. 13 perdendo 73 click stimati al mese: è la maggior perdita assoluta del periodo. La pagina <code>/blog/shilajit-benefici-proprieta-scienza.html</code> resta nella top 10 URL del sito ma in calo evidente. Verificare in Search Console se ci sono stati problemi tecnici (canonicalizzazione, indicizzazione) sulla pagina, controllare le SERP attuali per capire come è cambiata la competizione (nuovi competitor? AI Overview che assorbono il click-through?), e considerare un content refresh con focus su informazioni mediche aggiornate e fonti autorevoli."
+    },
+    {
+      "priority": "high",
+      "title": "Pagine cronicamente bloccate: acetilcisteina, ylang ylang, piperina",
+      "body": "Tre pagine top-volume continuano a non convertire le posizioni in click. <code>/blog/acetilcisteina-nac-benefici-usi.html</code>: 47 keyword posizionate (come glutatione che genera 251 click) ma solo 12 click totali. <code>/218-ylang-ylang</code>: cluster ancora a 0 traffico dopo la perdita del mispell. <code>/167-piperina-da-pepe-nero</code>: 8+ keyword tutte a 0 traffico. Il problema non è più di posizione (sono già in pos. 13-22) ma di intent matching: queste pagine probabilmente non rispondono alla query nello stesso modo dei competitor in top 10. Audit competitivo SERP a SERP e refresh radicale del contenuto, non più piccoli aggiustamenti."
+    },
+    {
+      "priority": "med",
+      "title": "Capitalizzare il successo PEA con cluster satellite",
+      "body": "\"Palmitoiletanolamide\" (4.400 volume) è salita a pos. 9 con 111 click stimati al mese, mentre a maggio era a pos. 11 con 0 click. La pagina <code>/blog/palmitoiletanolamide-pea-un-alleato-naturale-.html</code> è il 3° URL del sito per traffico (153 click) ed è la prova diretta che la strategia di spinta sui quick win pos. 11-20 funziona quando applicata bene. Replicare il modello: creare 3-4 articoli satellite (\"PEA controindicazioni\", \"PEA dosaggio\", \"PEA recensioni\") per consolidare il cluster e portare la head in top 5 nei prossimi 60 giorni."
+    },
+    {
+      "priority": "med",
+      "title": "Espansione editoriale del cluster \"piante afrodisiache\" (106 keyword)",
+      "body": "L'articolo <code>/blog/le-piante-afrodisiache.html</code> posiziona ora 106 keyword (era 76 a giugno, 61 a maggio): cresce di circa 30 al mese su una singola URL. È il secondo URL del sito per traffico (167 click) ma la concentrazione è strutturalmente rischiosa: qualsiasi competitor che pubblichi 5-6 articoli specifici sui sotto-temi può smontare il cluster in poche settimane. Pianificare entro 60-90 giorni 4-6 articoli satellite su intent specifici (piante afrodisiache per uomo/donna, naturali, controindicazioni, scientificamente provate). Priorità Media oggi, diventerà Alta se non si interviene entro fine settembre."
+    },
+    {
+      "priority": "med",
+      "title": "Cluster artrosi: monitoraggio attivo dopo i primi segnali misti",
+      "body": "L'articolo <code>/blog/dolori-articolari-artrosi-e-sport.html</code> mantiene la crescita generale (\"integratore artrosi\" pos. 6 con +9 posizioni, \"miglior integratore per artrosi\" pos. 7) ma compaiono i primi drop: \"integratori per artrosi cervicale\" -3 e -6 click, \"artrosi integratori\" -4 e -2 click. Procedere con il piano di espansione satellite consigliato a giugno (cervicale, anca, naturali) verificando però la qualità dei contenuti su questi sotto-temi: il drop suggerisce che competitor stanno pubblicando contenuti più specifici e approfonditi."
+    }
+  ]
+}

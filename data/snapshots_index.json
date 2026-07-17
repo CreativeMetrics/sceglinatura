@@ -20,6 +20,10 @@
     { "date": "2026-06-30",
       "file": "snapshot_2026-06-30.json", 
       "label": "Import 2026-06-30" 
+    },
+    {  "date": "2026-07-17", 
+        "file": "snapshot_2026-07-17.json", 
+        "label": "Import 2026-07-17"
     }
   ]
 }

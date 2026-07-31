@@ -24,6 +24,9 @@
     {  "date": "2026-07-17", 
         "file": "snapshot_2026-07-17.json", 
         "label": "Import 2026-07-17"
-    }
+    },
+    { "date": "2026-07-31", 
+       "file": "snapshot_2026-07-31.json", 
+       "label": "Import 2026-07-31" }
   ]
 }
